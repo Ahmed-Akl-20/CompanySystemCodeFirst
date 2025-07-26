@@ -1,35 +1,30 @@
 # 📊 Company System - Graduation Project
 
-ده مشروع "Company Management System" اللي اتعمل كجزء من مشروع التخرج ضمن مبادرة **رواد مصر الرقمية - DEPI**.
+This is the **Company Management System** project developed as part of the graduation requirements under the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-## ✅ الوظائف الأساسية
-- إضافة / تعديل / حذف / عرض:
-  - الأقسام (Departments)
-  - الموظفين (Employees)
-  - المشروعات (Projects)
-- ربط الموظفين بالأقسام
-- تعيين أو إزالة الموظفين من المشروعات
-- قاعدة بيانات SQLite باستخدام EF Core - Code First
-- منيو تفاعلية بالكامل بالأسهم
+## ✅ Main Features
+- Add / Edit / Delete / Display:
+  - Departments
+  - Employees
+  - Projects
+- Assign employees to departments
+- Assign/Remove employees from projects
+- SQLite database using Entity Framework Core (Code First)
+- Fully interactive console menu using arrow keys
 
-## 🧪 خطوات تشغيل المشروع
-1. افتح المشروع باستخدام **Visual Studio 2022**
-2. تأكد إن الـ NuGet Packages متسطبة
-3. افتح Package Manager Console واكتب:
-4. شغل البرنامج بـ الضغط على `F5`
-5. اتبع التعليمات في الكونسول عشان تضيف أو تعدل البيانات
+## 🧪 How to Run the Project
+1. Open the project using **Visual Studio 2022**
+2. Make sure all required **NuGet Packages** are installed
+3. Open the **Package Manager Console** and run:
+4. Run the project by pressing `F5`
+5. Use the interactive menu in the console to manage the system
 
-## ⚙️ التقنيات المستخدمة
+## ⚙️ Technologies Used
 - .NET 8
 - Entity Framework Core (Code First)
 - SQLite
-- Console App
+- Console Application
 
-## 👨‍🏫 ملاحظات
-المشروع ده مرفوع فقط لغرض المراجعة الأكاديمية من قِبل الدكتور.
-
----
-
-📌 **تقدّم بالمشروع:**  
-تم تنفيذ جميع المتطلبات المذكورة في الـ Project Requirements بالكامل.
+## 👨‍🏫 Notes
+This project is uploaded **for academic review purposes only**.
 
