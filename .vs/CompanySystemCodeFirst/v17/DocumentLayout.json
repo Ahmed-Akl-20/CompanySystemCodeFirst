@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|f:\\iti\\day_14_ef\\companysystemcodefirst\\companysystemcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|solutionrelative:companysystemcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|f:\\iti\\day_14_ef\\companysystemcodefirst\\companysystemcodefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|solutionrelative:companysystemcodefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|f:\\iti\\day_14_ef\\companysystemcodefirst\\companysystemcodefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|solutionrelative:companysystemcodefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|f:\\iti\\day_14_ef\\companysystemcodefirst\\companysystemcodefirst\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|solutionrelative:companysystemcodefirst\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|f:\\iti\\day_14_ef\\companysystemcodefirst\\companysystemcodefirst\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|solutionrelative:companysystemcodefirst\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|f:\\iti\\day_14_ef\\companysystemcodefirst\\companysystemcodefirst\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F47223-FED9-4BD0-9AA8-0A32110C38CE}|CompanySystemCodeFirst\\CompanySystemCodeFirst.csproj|solutionrelative:companysystemcodefirst\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Migrations\\20250726211457_InitialSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanySystemCodeFirst\\Migrations\\20250726211457_InitialSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Migrations\\20250726204028_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanySystemCodeFirst\\Migrations\\20250726204028_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250726211457_InitialSchema.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Migrations\\20250726211457_InitialSchema.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Migrations\\20250726211457_InitialSchema.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Migrations\\20250726211457_InitialSchema.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Migrations\\20250726211457_InitialSchema.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T21:14:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Data\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Data\\CompanyContext.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Data\\CompanyContext.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Data\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:32:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Models\\EmployeeProject.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:32:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Models\\Project.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\Project.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:28:59.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Models\\Employee.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:28:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Models\\Department.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Models\\Department.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:28:31.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Program.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Program.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:26:59.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250726204028_InitialCreate.cs",
+              "DocumentMoniker": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Migrations\\20250726204028_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CompanySystemCodeFirst\\Migrations\\20250726204028_InitialCreate.cs",
+              "ToolTip": "F:\\ITI\\DAY_14_EF\\CompanySystemCodeFirst\\CompanySystemCodeFirst\\Migrations\\20250726204028_InitialCreate.cs",
+              "RelativeToolTip": "CompanySystemCodeFirst\\Migrations\\20250726204028_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T20:40:28.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
